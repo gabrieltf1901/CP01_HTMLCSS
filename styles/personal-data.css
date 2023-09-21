@@ -1,0 +1,15 @@
+.personal-data {
+    background-image: url(https://th.bing.com/th/id/R.8b4b9424b0aaadd8794747800da9be96?rik=520Z7Sxl9iwgrA&riu=http%3a%2f%2fimagenes.4ever.eu%2fdata%2fdownload%2fnaturaleza%2fcampo%2c-plantas%2c-despues-de-la-puesta-del-sol-203751.jpg%3fno-logo&ehk=vgPCrKL%2b%2fq%2bAoovY%2fYQrmlN8L%2b0xxDSHhwt%2fYP6aKpY%3d&risl=&pid=ImgRaw&r=0);
+    
+}
+
+
+
+.personal-data h1 {
+    font-size: 2em;
+    color: brown;
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    /*background-color: green;*/
+}
